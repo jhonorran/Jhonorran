@@ -186,15 +186,6 @@ Estou constantemente criando, estudando e adicionando novos projetos ao meu port
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Jhonorran&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
-
-</div>
-
----
 
 ## 🐍 Contribution Snake
 
