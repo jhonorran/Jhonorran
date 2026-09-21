@@ -196,7 +196,7 @@ Estou constantemente criando, estudando e adicionando novos projetos ao meu port
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Jhonorran/Jhonorran/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/jhonorran/Jhonorran/gh-pages/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 </div>
 
