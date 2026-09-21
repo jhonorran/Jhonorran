@@ -78,12 +78,114 @@ Gosto de aprender colocando a mão na massa. Por isso, muitos dos meus estudos a
 
 ## 🚀 Projetos
 
-Alguns dos projetos que venho desenvolvendo durante minha jornada de aprendizado.
+<div align="center">
+
+Projetos que venho desenvolvendo durante minha jornada de aprendizado,
+colocando em prática programação, desenvolvimento web e novas tecnologias.
+
+</div>
+
+<br>
+
+<table align="center">
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🎨 Sumi na Neblina Tattoo</h3>
+
+Site desenvolvido para um estúdio de tatuagem, com portfólio, avaliações, formulário de orçamento e área administrativa.
+
+<br>
+
+<b>Stack:</b>
+
+`HTML` `CSS` `JavaScript` `Node.js`
+
+<br><br>
+
+<a href="https://github.com/jhonorran/sumi-na-neblina-tattoo">
+<img src="https://img.shields.io/badge/Ver%20c%C3%B3digo-00BFFF?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>📋 TaskFlow</h3>
+
+Aplicação desenvolvida para organização de tarefas e rotina, utilizando JavaScript para criar uma experiência dinâmica e interativa.
+
+<br>
+
+<b>Stack:</b>
+
+`HTML` `CSS` `JavaScript`
+
+<br><br>
+
+<a href="https://github.com/jhonorran/taskflow">
+<img src="https://img.shields.io/badge/Ver%20c%C3%B3digo-00BFFF?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🥗 Nutri-App</h3>
+
+Projeto desenvolvido durante meus estudos com foco em aplicação web utilizando React e Vite.
+
+<br>
+
+<b>Stack:</b>
+
+`React` `Vite` `JavaScript` `CSS`
+
+<br><br>
+
+<a href="https://github.com/jhonorran/Nutri-App">
+<img src="https://img.shields.io/badge/Ver%20c%C3%B3digo-00BFFF?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🐍 Snake Game</h3>
+
+Jogo da cobrinha desenvolvido para praticar lógica de programação, JavaScript e manipulação de elementos no navegador.
+
+<br>
+
+<b>Stack:</b>
+
+`HTML` `CSS` `JavaScript`
+
+<br><br>
+
+<a href="https://github.com/jhonorran/snake-game">
+<img src="https://img.shields.io/badge/Ver%20c%C3%B3digo-00BFFF?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<br>
 
 <div align="center">
 
-<table>
-<tr>
+<a href="https://github.com/jhonorran?tab=repositories">
+<img src="https://img.shields.io/badge/Ver%20todos%20os%20projetos-0D1117?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
 
 <td width="50%" valign="top">
 
