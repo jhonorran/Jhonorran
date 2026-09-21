@@ -154,9 +154,9 @@ Estou constantemente criando, estudando e adicionando novos projetos ao meu port
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jhonorran&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="180" alt="GitHub Stats" />
+<img src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=Jhonorran&show_icons=true&theme=dark" height="180" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonorran&layout=compact&theme=transparent&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
+<img src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=Jhonorran&layout=compact&theme=dark" height="180" alt="Top Languages" />
 
 </div>
 
@@ -166,7 +166,7 @@ Estou constantemente criando, estudando e adicionando novos projetos ao meu port
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Jhonorran&hide_border=true&background=0D1117&ring=00BFFF&fire=00BFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" />
+<img src="https://streak-stats.demolab.com/?user=Jhonorran&theme=dark&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -176,7 +176,7 @@ Estou constantemente criando, estudando e adicionando novos projetos ao meu port
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jhonorran&bg_color=0D1117&color=FFFFFF&line=00BFFF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jhonorran&theme=github-compact&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph" />
 
 </div>
 
@@ -186,7 +186,7 @@ Estou constantemente criando, estudando e adicionando novos projetos ao meu port
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Jhonorran&theme=onestar&no-frame=true&no-bg=true&margin-w=10&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=Jhonorran&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
 
 </div>
 
