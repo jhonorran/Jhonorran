@@ -154,9 +154,9 @@ Estou constantemente criando, estudando e adicionando novos projetos ao meu port
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jhonorran&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF&text_color=FFFFFF" />
+<img src="https://github-readme-stats.vercel.app/api?username=Jhonorran&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="180" alt="GitHub Stats" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonorran&layout=compact&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=FFFFFF&langs_count=8" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonorran&layout=compact&theme=transparent&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
 
 </div>
 
