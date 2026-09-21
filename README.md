@@ -176,7 +176,11 @@ Estou constantemente criando, estudando e adicionando novos projetos ao meu port
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jhonorran&theme=github-compact&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph" />
+<img
+  src="https://raw.githubusercontent.com/Jhonorran/Jhonorran/activity-graph/activity-graph.svg"
+  width="100%"
+  alt="GitHub Activity Graph"
+/>
 
 </div>
 
