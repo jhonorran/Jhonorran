@@ -94,23 +94,22 @@ colocando em prática programação, desenvolvimento web e novas tecnologias.
 
 <h3>🎨 Sumi na Neblina Tattoo</h3>
 
-Site desenvolvido para um estúdio de tatuagem, com portfólio, avaliações, formulário de orçamento e área administrativa.
 
-<br>
+Um projeto web desenvolvido para um estúdio de tatuagem, com foco em apresentação do trabalho, portfólio, avaliações, orçamento e área administrativa.
 
-<b>Stack:</b>
+**Stack:**
 
 `HTML` `CSS` `JavaScript` `Node.js`
 
-<br><br>
+<br>
 
 <a href="https://github.com/jhonorran/sumi-na-neblina-tattoo">
-<img src="https://img.shields.io/badge/Ver%20c%C3%B3digo-00BFFF?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Ver%20Projeto-00BFFF?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-</td>
-
-<td width="50%" valign="top">
+<a href="https://github.com/jhonorran/sumi-na-neblina-tattoo">
+<img src="https://img.shields.io/badge/C%C3%B3digo-0D1117?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 <h3>📋 TaskFlow</h3>
 
@@ -160,23 +159,6 @@ Jogo da cobrinha desenvolvido para praticar lógica de programação, JavaScript
 <img src="https://img.shields.io/badge/C%C3%B3digo-0D1117?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-### 🎨 Site para Estúdio de Tatuagem
-
-Um projeto web desenvolvido para um estúdio de tatuagem, com foco em apresentação do trabalho, portfólio, avaliações, orçamento e área administrativa.
-
-**Stack:**
-
-`HTML` `CSS` `JavaScript` `Node.js`
-
-<br>
-
-<a href="https://github.com/jhonorran/sumi-na-neblina-tattoo">
-<img src="https://img.shields.io/badge/Ver%20Projeto-00BFFF?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="https://github.com/jhonorran/sumi-na-neblina-tattoo">
-<img src="https://img.shields.io/badge/C%C3%B3digo-0D1117?style=for-the-badge&logo=github&logoColor=white">
-</a>
 
 ### 📋 App de Rotina
 
