@@ -114,47 +114,33 @@ Site desenvolvido para um estúdio de tatuagem, com portfólio, avaliações, fo
 
 <h3>📋 TaskFlow</h3>
 
-Aplicação desenvolvida para organização de tarefas e rotina, utilizando JavaScript para criar uma experiência dinâmica e interativa.
+Aplicação criada para organização de tarefas e rotina, desenvolvida como parte da minha prática de desenvolvimento web.
 
-<br>
-
-<b>Stack:</b>
+**Stack:**
 
 `HTML` `CSS` `JavaScript`
 
-<br><br>
+<br>
 
 <a href="https://github.com/jhonorran/taskflow">
-<img src="https://img.shields.io/badge/Ver%20c%C3%B3digo-00BFFF?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Ver%20Projeto-00BFFF?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
+<a href="https://github.com/jhonorran/taskflow">
+<img src="https://img.shields.io/badge/C%C3%B3digo-0D1117?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 <h3>🥗 Nutri-App</h3>
 
 Projeto desenvolvido durante meus estudos com foco em aplicação web utilizando React e Vite.
 
-<br>
-
-<b>Stack:</b>
-
-`React` `Vite` `JavaScript` `CSS`
-
-<br><br>
-
 <a href="https://github.com/jhonorran/Nutri-App">
-<img src="https://img.shields.io/badge/Ver%20c%C3%B3digo-00BFFF?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Ver%20Projeto-00BFFF?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-</td>
-
-<td width="50%" valign="top">
+<a href="https://github.com/jhonorran/Nutri-App">
+<img src="https://img.shields.io/badge/C%C3%B3digo-0D1117?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 <h3>🐍 Snake Game</h3>
 
@@ -166,50 +152,31 @@ Jogo da cobrinha desenvolvido para praticar lógica de programação, JavaScript
 
 `HTML` `CSS` `JavaScript`
 
-<br><br>
+<a href="https://github.com/jhonorran/snake-game">
+<img src="https://img.shields.io/badge/Ver%20Projeto-00BFFF?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 <a href="https://github.com/jhonorran/snake-game">
-<img src="https://img.shields.io/badge/Ver%20c%C3%B3digo-00BFFF?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/C%C3%B3digo-0D1117?style=for-the-badge&logo=github&logoColor=white">
 </a>
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<div align="center">
-
-<a href="https://github.com/jhonorran?tab=repositories">
-<img src="https://img.shields.io/badge/Ver%20todos%20os%20projetos-0D1117?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</div>
-
-<td width="50%" valign="top">
 
 ### 🎨 Site para Estúdio de Tatuagem
 
 Um projeto web desenvolvido para um estúdio de tatuagem, com foco em apresentação do trabalho, portfólio, avaliações, orçamento e área administrativa.
 
-**Tecnologias:**
+**Stack:**
 
 `HTML` `CSS` `JavaScript` `Node.js`
 
 <br>
 
-<a href="SEU-LINK-AQUI">
+<a href="https://github.com/jhonorran/sumi-na-neblina-tattoo">
 <img src="https://img.shields.io/badge/Ver%20Projeto-00BFFF?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="SEU-LINK-AQUI">
+<a href="https://github.com/jhonorran/sumi-na-neblina-tattoo">
 <img src="https://img.shields.io/badge/C%C3%B3digo-0D1117?style=for-the-badge&logo=github&logoColor=white">
 </a>
-
-</td>
-
-<td width="50%" valign="top">
 
 ### 📋 App de Rotina
 
