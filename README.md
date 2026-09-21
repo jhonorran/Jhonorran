@@ -94,14 +94,15 @@ colocando em prática programação, desenvolvimento web e novas tecnologias.
 
 <h3>🎨 Sumi na Neblina Tattoo</h3>
 
+Site desenvolvido para um estúdio de tatuagem, com foco em apresentação do trabalho, portfólio, avaliações, orçamento e área administrativa.
 
-Um projeto web desenvolvido para um estúdio de tatuagem, com foco em apresentação do trabalho, portfólio, avaliações, orçamento e área administrativa.
+<br>
 
-**Stack:**
+<b>Stack:</b>
 
 `HTML` `CSS` `JavaScript` `Node.js`
 
-<br>
+<br><br>
 
 <a href="https://github.com/jhonorran/sumi-na-neblina-tattoo">
 <img src="https://img.shields.io/badge/Ver%20Projeto-00BFFF?style=for-the-badge&logo=github&logoColor=white">
@@ -110,17 +111,23 @@ Um projeto web desenvolvido para um estúdio de tatuagem, com foco em apresenta�
 <a href="https://github.com/jhonorran/sumi-na-neblina-tattoo">
 <img src="https://img.shields.io/badge/C%C3%B3digo-0D1117?style=for-the-badge&logo=github&logoColor=white">
 </a>
+
+</td>
+
+<td width="50%" valign="top">
 
 <h3>📋 TaskFlow</h3>
 
-Aplicação criada para organização de tarefas e rotina, desenvolvida como parte da minha prática de desenvolvimento web.
-
-**Stack:**
-
-`HTML` `CSS` `JavaScript`
+Aplicação criada para organização de tarefas e rotina, desenvolvida para praticar desenvolvimento web e JavaScript.
 
 <br>
 
+<b>Stack:</b>
+
+`HTML` `CSS` `JavaScript`
+
+<br><br>
+
 <a href="https://github.com/jhonorran/taskflow">
 <img src="https://img.shields.io/badge/Ver%20Projeto-00BFFF?style=for-the-badge&logo=github&logoColor=white">
 </a>
@@ -128,10 +135,26 @@ Aplicação criada para organização de tarefas e rotina, desenvolvida como par
 <a href="https://github.com/jhonorran/taskflow">
 <img src="https://img.shields.io/badge/C%C3%B3digo-0D1117?style=for-the-badge&logo=github&logoColor=white">
 </a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
 
 <h3>🥗 Nutri-App</h3>
 
-Projeto desenvolvido durante meus estudos com foco em aplicação web utilizando React e Vite.
+Projeto desenvolvido durante meus estudos com foco em aplicações web utilizando React e Vite.
+
+<br>
+
+<b>Stack:</b>
+
+`React` `Vite` `JavaScript` `CSS`
+
+<br><br>
 
 <a href="https://github.com/jhonorran/Nutri-App">
 <img src="https://img.shields.io/badge/Ver%20Projeto-00BFFF?style=for-the-badge&logo=github&logoColor=white">
@@ -140,6 +163,10 @@ Projeto desenvolvido durante meus estudos com foco em aplicação web utilizando
 <a href="https://github.com/jhonorran/Nutri-App">
 <img src="https://img.shields.io/badge/C%C3%B3digo-0D1117?style=for-the-badge&logo=github&logoColor=white">
 </a>
+
+</td>
+
+<td width="50%" valign="top">
 
 <h3>🐍 Snake Game</h3>
 
@@ -151,30 +178,13 @@ Jogo da cobrinha desenvolvido para praticar lógica de programação, JavaScript
 
 `HTML` `CSS` `JavaScript`
 
+<br><br>
+
 <a href="https://github.com/jhonorran/snake-game">
 <img src="https://img.shields.io/badge/Ver%20Projeto-00BFFF?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <a href="https://github.com/jhonorran/snake-game">
-<img src="https://img.shields.io/badge/C%C3%B3digo-0D1117?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-
-### 📋 App de Rotina
-
-Aplicação criada para organização de tarefas e rotina, desenvolvida como parte da minha prática de desenvolvimento web.
-
-**Tecnologias:**
-
-`HTML` `CSS` `JavaScript`
-
-<br>
-
-<a href="SEU-LINK-AQUI">
-<img src="https://img.shields.io/badge/Ver%20Projeto-00BFFF?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="SEU-LINK-AQUI">
 <img src="https://img.shields.io/badge/C%C3%B3digo-0D1117?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
@@ -183,11 +193,15 @@ Aplicação criada para organização de tarefas e rotina, desenvolvida como par
 </tr>
 </table>
 
-</div>
-
 <br>
 
 <div align="center">
+
+<a href="https://github.com/jhonorran?tab=repositories">
+<img src="https://img.shields.io/badge/Ver%20todos%20os%20projetos-0D1117?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
 
 ### 📌 Mais projetos em breve...
 
